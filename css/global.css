@@ -1,0 +1,29 @@
+/*
+Created by:	Scott Taylor Martin aka Ironsage75
+File:		CSS file for martinWoodshow website
+Date:		October 14, 2015
+
+*/
+#wrapper
+{
+	width: 500px;
+	margin: 0 auto;
+}
+
+//Header section
+#header
+{
+	background-color: #0000FF;
+	height: 100px;
+}
+
+#navholder
+{
+	
+}
+
+//convenience div for clearing formatting
+.clear
+{
+	clear:both;
+}
